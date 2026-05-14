@@ -56,16 +56,16 @@ Displays:
 
 ---
 
-## Screenshots
-- Terraform apply success
-- AWS EC2 running instance
-- Application running in browser
-
----
-
 ## Key Learnings
 - Infrastructure as Code (IaC)
 - AWS resource provisioning
 - Security group configuration
 - Troubleshooting AMI compatibility issues
 - Docker deployment on cloud infrastructure
+---
+
+## Screenshots
+<img width="1919" height="1012" alt="Screenshot 2026-05-14 083750" src="https://github.com/user-attachments/assets/72c81b72-ad24-49e1-aee4-dfc517bf0ba6" />
+<img width="478" height="53" alt="Screenshot 2026-05-14 083804" src="https://github.com/user-attachments/assets/91645e7b-f141-45ef-bc27-58946ee4a276" />
+<img width="1919" height="872" alt="Screenshot 2026-05-14 083834" src="https://github.com/user-attachments/assets/087dcc25-6349-4d32-8216-af191ea26aa8" />
+<img width="1919" height="1018" alt="Screenshot 2026-05-14 083913" src="https://github.com/user-attachments/assets/d682b88f-da77-4e5b-ae20-0d7350615730" />
